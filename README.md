@@ -3,7 +3,7 @@
 ## 1.Overview
 The code for paper "Rebuilding to Remember: Reconstruction-Driven Regularization for Information-Preserving in Clustering Graph Pooling". 
 
-![image](/data/Fig 1.PNG)
+![image](/data/Fig1.PNG)
 
 The repository is organized as follows:
 * **`REGPool/`** - Contains model training scripts and parameter configuration code
